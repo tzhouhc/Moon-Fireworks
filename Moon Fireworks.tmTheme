@@ -5,7 +5,7 @@
 	<key>comment</key>
 	<string>Creator: CodeRunner</string>
 	<key>name</key>
-	<string>Vibrant</string>
+	<string>Moon Fireworks</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -179,7 +179,21 @@
 			<key>scope</key>
 			<string>entity.name.tag</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#72DAFE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Text</string>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#96D740</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,7 +201,10 @@
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#CBFA9D</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
