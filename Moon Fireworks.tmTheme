@@ -38,13 +38,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String</string>
+			<string>Double Quoted String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string.quoted.double</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8BDC60</string>
+				<string>#48C723</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Single Quoted String</string>
+			<key>scope</key>
+			<string>string.quoted.single</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6CE560</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +112,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFADB</string>
+				<string>#FEF79C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -112,7 +123,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFADB</string>
+				<string>#FFDD96</string>
 			</dict>
 		</dict>
 		<dict>
