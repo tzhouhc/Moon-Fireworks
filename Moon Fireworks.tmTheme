@@ -197,17 +197,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Text</string>
-			<key>scope</key>
-			<string>text</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#96D740</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Tag attribute</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
