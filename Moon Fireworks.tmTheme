@@ -137,6 +137,8 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#FFDD96</string>
 			</dict>
