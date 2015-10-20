@@ -289,6 +289,10 @@
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
+
+		<!-->
+			GitGutter Portion
+		</!-->
 		<dict>
 		  <key>name</key>
 		  <string>GitGutter deleted</string>
@@ -344,6 +348,109 @@
 		    <string>#565656</string>
 		  </dict>
 		</dict>
+
+		<!-->
+			BracketHighlighter Portion
+		</!-->
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Default</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.default</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#FEF79C</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Tag</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.tag</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#66CCCC</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Curly</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.curly</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#CC99CC</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Round</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.round</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#FF9300</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Square</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.square</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#FF9300</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Angle</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.angle</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#72DAFE</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Quote</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.quote</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#6BC351</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket C-define</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.c_define</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#FEF79C</string>
+	    </dict>
+		</dict>
+		<dict>
+	    <key>name</key>
+	    <string>Bracket Unmatched</string>
+	    <key>scope</key>
+	    <string>brackethighlighter.unmatched</string>
+	    <key>settings</key>
+	    <dict>
+        <key>foreground</key>
+        <string>#F2777A</string>
+	    </dict>
+		</dict>		
 	</array>
 	<key>uuid</key>
 	<string>F45CF73D-6DA8-4EE1-889B-DDF95E6D95DE</string>
