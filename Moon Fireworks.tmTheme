@@ -141,6 +141,19 @@
 				<string>#FEF79C</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Entity Name</string>
+			<key>scope</key>
+			<string>entity - entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#94C4D3</string>
+			</dict>
+		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
