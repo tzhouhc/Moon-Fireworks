@@ -146,7 +146,7 @@
 			<key>name</key>
 			<string>Entity Name</string>
 			<key>scope</key>
-			<string>entity - entity.name</string>
+			<string>entity.name.section</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
